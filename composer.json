@@ -1,0 +1,17 @@
+{
+    "name": "teknohaiyi/semangat",
+    
+    "autoload": {
+        "psr-4": {
+            "Teknohaiyi\\Semangat\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "haiyi"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0.1"
+    }
+}
